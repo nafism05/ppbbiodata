@@ -44,7 +44,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Deskripsi Singkat : "
+        android:text="Deskripsi Singkat : Manusia yang hanya bisa berusaha dan berdo'a"
         android:textSize="20sp"
         android:layout_gravity="left"
         android:layout_marginBottom="10dp"
